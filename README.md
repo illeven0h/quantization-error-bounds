@@ -2,12 +2,6 @@
 
 **Input-statistics-dependent worst-case error bounds for uniformly quantized linear models, with feature normalization as an error-reduction mechanism.**
 
-Course project for *Mathematics for AI*, Department of Artificial Intelligence & Data Science, School of Computing, FAST-NUCES.
-
-**Team:** Iman Mughal (26i-7674), Um e Aimen (26i-7670), Zahra Ahmed (26i-7656)
-
-> Status: **initial experiments**. The code, training graphs and first results are complete; the formal normalization theorem and the sparsity refinement are planned for the next stage (see [Limitations and next steps](#limitations-and-next-steps)).
-
 ---
 
 ## Overview
